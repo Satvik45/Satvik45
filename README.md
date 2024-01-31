@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Satvik45/Satvik45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on Software Development and problem-solving skills.
+👯 I’m looking to work and collaborate on amazing projects.
+📫 Reach me @ satvik.srivastavaaa@gmail.com
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Satvik45&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Satvik45&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
